@@ -1,1 +1,6 @@
-pip install fastapi pydantic uvicorn torch librosa transformers
+fastapi
+pydantic
+uvicorn
+torch
+librosa
+transformers
